@@ -5,9 +5,12 @@
 ![Profile views](https://komarev.com/ghpvc/?username=sadekHack&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Web+Dev+%7C+PHP+%2F+Laravel+Lover;Tech+Explorer+and+Problem+Solver;Let's+build+something+awesome+together!" alt="Typing SVG" />
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Web+Dev+%7C+PHP+%2F+Laravel+Lover;Tech+Explorer+and+Problem+Solver;Let's+build+something+awesome+together!)](https://git.io/typing-svg)
+
+</div>
+
 
 ---
 
