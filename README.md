@@ -54,15 +54,4 @@ Let’s connect and create something impactful.
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="28" alt="PHP">
 </p>
 
----
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sadekHack&theme=tokyonight&show_icons=true&count_private=true&line_height=24" alt="Sadek's GitHub stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=sadekHack&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadekHack&theme=tokyonight&layout=compact&langs_count=6" alt="Top Languages" />
-</p>
